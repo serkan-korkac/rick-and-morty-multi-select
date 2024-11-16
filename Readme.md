@@ -1,5 +1,5 @@
 ## Rick and Morty MultiSelect Autocomplete
-![Ekran Görüntüsü](assets/images/banner3.png)
+![Ekran Görüntüsü](assets/images/banner3.jpeg)
 
 ### **Description**
 
